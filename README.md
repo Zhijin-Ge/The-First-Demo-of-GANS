@@ -3,7 +3,7 @@ GAN的一个小demo，在mnist数据集上实现，输入随机噪声，通过�
 
 论文参考：[Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 
-论文解读：[李沐](https://www.bilibili.com/video/BV1rb4y187vD?spm_id_from=333.337.search-card.all.click&vd_source=f30aa02f3f6da2b0bd9f1f83fa74de35), [同济子豪雄兄](https://www.bilibili.com/video/BV1oi4y1m7np?vd_source=f30aa02f3f6da2b0bd9f1f83fa74de35)
+论文解读：[李沐](https://www.bilibili.com/video/BV1rb4y187vD?spm_id_from=333.337.search-card.all.click&vd_source=f30aa02f3f6da2b0bd9f1f83fa74de35), [同济子豪兄](https://www.bilibili.com/video/BV1oi4y1m7np?vd_source=f30aa02f3f6da2b0bd9f1f83fa74de35)
 ## 基础环境
 1.python(Anaconda)环境，这里用的是python==3.7；
 
