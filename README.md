@@ -1,6 +1,8 @@
 # The-First-Demo-of-GANS
 GAN的一个小demo，在mnist数据集上实现，输入随机噪声，通过生成器和判别器训练之后，输出在该噪声下生成的数字。
 
+论文参考：[Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+
 ## 基础环境
 1.python(Anaconda)环境，这里用的是python==3.7；
 
